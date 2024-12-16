@@ -5,3 +5,4 @@
 *.html
 eda_files/
 model_files/
+/.quarto/
