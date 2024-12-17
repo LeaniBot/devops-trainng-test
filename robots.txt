@@ -1,0 +1,1 @@
+Sitemap: https://LeaniBot.github.io/devops-trainng-test/sitemap.xml
